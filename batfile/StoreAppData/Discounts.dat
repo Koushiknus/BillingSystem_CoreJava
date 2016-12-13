@@ -1,0 +1,5 @@
+MEMBER_FIRST,First Time Member,ALWAYS,ALWAYS,20.0,M
+MEMBER_SUBSEQ,subsequent discount percenage for members,ALWAYS,ALWAYS,40.0,M
+Test,testing,2014-12-22,12,12.0,A
+Test2,membertest,2016-12-13,13,22.0,A
+testing,testing,ALWAYS,ALWAYS,33.0,M
